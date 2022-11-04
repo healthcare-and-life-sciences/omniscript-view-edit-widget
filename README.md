@@ -63,10 +63,9 @@ The following steps are required for installation.
 *DPA Components*
 
 1. The DPA components for the are distributed as .json files and are located in the following GitHub repository: https://github.com/healthcare-and-life-sciences/omniscript-view-edit-widget.
-2. The Data Pack folder contains 3 DPA Data Packs. Please download the Data Packs and save them to your machine. Then, complete the following steps to import them into your Salesforce org.
-    1. To Import, in your destination Salesforce org, Click on *App Launcher* → Search for '*Vlocity DataPacks*' and click on it.
-    2. Click on '*Installed*' and on the right side click on '*Import from*'.
-    3. Select '*From File*' - When the window opens, select the Data Pack file that you downloaded and stored on your machine. Click '*Install*'.
+2. Please download the .json files and save them to your machine. Then, complete the following steps to import them into your Salesforce org.
+    1. To Import, in your destination Salesforce org, Click on *App Launcher* → Search for '*OmniScripts*' and click on it.
+    2. Click on '*Import*' and select '*From File*' - When the window opens, select the .json file that you downloaded and stored on your machine. Click '*Install*'.
 
 <h3>Post-Install Configuration Steps:</h3>
 
