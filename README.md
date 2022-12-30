@@ -1,3 +1,4 @@
+![](images/ahlsbanner.png)
 <h1>A-HLS OmniScript Widget w/ Google Maps API Accelerator - Documentation</h1>
 
 <h2>Overview</h2>
