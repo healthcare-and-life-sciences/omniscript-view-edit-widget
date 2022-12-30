@@ -74,7 +74,7 @@ The following steps are required for installation.
     1. Obtain a Google Maps API Key at the following URL: 
         1. https://developers.google.com/maps/documentation/javascript/get-api-key
     2. Update the OmniScripts “Account Edit” and “Contact Edit” which you installed above to reference the Google Maps Key you created in the previous step. Refer to the following article for additional guidance:
-        1. https://docs.vlocity.com/en/Using-Google-Maps-Autocomplete-in-LWC-OmniScripts.html
+        1. https://help.salesforce.com/s/articleView?id=sf.os_using_google_maps_autocomplete_with_omniscript.htm&type=5
 
 
 <h2>Assumptions</h2>
